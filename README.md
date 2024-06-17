@@ -1,1 +1,1 @@
-COFFEE MANAGEMENT
+Just focus on Database design, not on Application
